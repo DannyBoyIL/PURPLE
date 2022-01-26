@@ -6,7 +6,7 @@ A mini API project composed in Laravel framework 8.0.
 
 ### Instellation and Setup:
 
--   Download project from GitHub repository [link](foo).
+-   Download project from GitHub repository [link](https://github.com/DannyBoyIL/PURPLE).
 -   Extract project  **_PURPLE_**  And place it inside you local server directory  `C:\xampp\htdocs`  or any other directory defined and running my  **xampp**  local server.
 -   Open local  **xampp**  server and make sure that  _pdo_mysql_  extension isn't commented out on  **PHP.ini**  file and ready for use.
 -   Run  _Apache_  local server and  _MySQL_  local database.
