@@ -27,7 +27,7 @@ Get dedicated Postman collection from [link](https://www.getpostman.com/collecti
 
 Open your Postman development tool make use of the collection retrieved. Make sure to verify that the requests base url are set up to your current local environment **`<http://localhost:8000>`**`/PURPLE/public/api/users` .
 
-For each request in the collection there is a description added to help you through the system checks. With that said, a summary  of the entire collection is brought to you here below for you comfort:
+For each request in the collection there is a description added to help you through the system checks. With that said, a summary  of the entire collection is brought to you here below for your comfort:
 
 ## users  folder
 
